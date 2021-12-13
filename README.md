@@ -23,7 +23,7 @@ This is an image classification task and originated from Kaggle, so traffic sign
 <a id='blog'></a>
 ## Blog Post
 
-The main findings of the project can be found at the blog post available [here]().
+The main findings of the project can be found at the blog post available [here](https://alexjin48.medium.com/traffic-signs-recognition-using-cnn-with-tensorflow-keras-bfb69e37e249).
 
 <a id='acknowledgements'></a>
 ## Acknowledgements
